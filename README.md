@@ -44,5 +44,5 @@ To verify the certificates, click the images to follow the links.
 
 <p align="middle">
   <a href="https://www.coursera.org/account/accomplishments/specialization/DE38N88UKCGS"><img src="https://github.com/adam951502/IBM-Introduction-to-Data-Science-Specialization/assets/52702712/94a6d2aa-51c7-4eb9-ab24-9bddf26e35d6" width="400"></a>
-  <a href="https://www.credly.com/badges/a294304e-2d97-4ba7-ae44-11ae2f7e8250/public_url"><img src="https://github.com/adam951502/IBM-Introduction-to-Data-Science-Specialization/assets/52702712/1834d8b0-e6fc-4953-bd68-9d7acfb8c85b" width="400"></a>
+  <a href="https://www.credly.com/badges/a294304e-2d97-4ba7-ae44-11ae2f7e8250/public_url"><img src="https://github.com/adam951502/IBM-Introduction-to-Data-Science-Specialization/assets/52702712/1834d8b0-e6fc-4953-bd68-9d7acfb8c85b" width="350"></a>
 </p>
