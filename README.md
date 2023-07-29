@@ -1,24 +1,20 @@
-![ViewCount](https://views.whatilearened.today/views/github/adam951502/IBM_Data_Science_Professional_Certification.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/adam951502/IBM_Data_Science_Professional_Certificate?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/adam951502/IBM_Data_Science_Professional_Certificate?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/adam951502/IBM-Introduction-to-Data-Science-Specialization.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/adam951502/IBM-Introduction-to-Data-Science-Specialization?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/adam951502/IBM-Introduction-to-Data-Science-Specialization?style=flat)
 
-[![Header](https://user-images.githubusercontent.com/52702712/197857942-3ef1eb26-d9a6-4930-b430-326afcbb8d3f.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
-
-
+[![Header](https://github.com/adam951502/IBM-Introduction-to-Data-Science-Specialization/assets/52702712/98e0bc9a-2eaa-4044-9b2b-dd206826fb3a)](https://www.coursera.org/specializations/introduction-data-science)
 
 
-# IBM Data Science Professional Certificate
+# Introduction to Data Science Specialization
 
-The IBM Data Science Professional Certification consists of 10 courses which will provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning.
-
-
+Interested in learning more about data science, but don’t know where to start? This 4-course Specialization from IBM will provide you with the key foundational skills any data scientist needs to prepare you for a career in data science or further advanced learning in the field.  
 
 
 ## :books: Courses
 - [x] [01. What is Data Science?](01.%20What%20is%20Data%20Science/)
 - [x] [02. Tools for Data Science](02.%20Tools%20for%20Data%20Science/)
 - [x] [03. Data Science Methodology](03.%20Data%20Science%20Methodology)
-- [x] [04. Databases and SQL for Data Science with Python](06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)
+- [x] [04. Databases and SQL for Data Science with Python](04.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)
 
 ## :toolbox: Tools
 The tools were used to complete the certification.
@@ -40,7 +36,6 @@ Python libraries were used throughout the certification.
 [<img  src="https://user-images.githubusercontent.com/52702712/198739517-8c52f4b9-bc44-4505-b915-01ebf36c3904.svg" alt="seaborn" height="35">](https://seaborn.pydata.org/)
 [<img  src="https://user-images.githubusercontent.com/52702712/198739496-c87c3325-45a9-42c7-8d22-31c5ff2e8ac2.png" alt="plotly" height="35">](https://plotly.com/)
 
-
 ## :clipboard: Projects
 - [Programming Language Statistics in The Class](https://github.com/adam951502/IBM_Data_Science_Professional_Certificate/blob/main/02.%20Tools%20for%20Data%20Science/Final%20Assignment/Tools%20for%20Data%20Science%20Assignment%20.ipynb)
 
@@ -48,6 +43,6 @@ Python libraries were used throughout the certification.
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/DE38N88UKCGS"><img src="" height="400"></a>
-  <a href="https://www.credly.com/badges/a294304e-2d97-4ba7-ae44-11ae2f7e8250/public_url"><img src="" height="400"></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/DE38N88UKCGS"><img src="https://github.com/adam951502/IBM-Introduction-to-Data-Science-Specialization/assets/52702712/c26d2663-4615-4285-a12a-67bdafdbc05e" height="400"></a>
+  <a href="https://www.credly.com/badges/a294304e-2d97-4ba7-ae44-11ae2f7e8250/public_url"><img src="https://github.com/adam951502/IBM-Introduction-to-Data-Science-Specialization/assets/52702712/1834d8b0-e6fc-4953-bd68-9d7acfb8c85b" height="400"></a>
 </p>
